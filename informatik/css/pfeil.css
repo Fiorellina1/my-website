@@ -1,0 +1,18 @@
+body { 
+    background-color: rgb(253, 246, 119);}
+    
+p {color: rgb(59, 213, 213);} 
+    
+h2 { color: rgb(27, 163, 109);}
+    
+a { color: rgb(41, 6, 60);}
+
+span {color :blue}
+
+.lili {font-weight: bold;}
+
+.lili {font-style: unset;}
+
+#kak {font-size: xx-small;}
+
+#kak {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}

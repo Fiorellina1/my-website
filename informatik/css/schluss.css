@@ -1,0 +1,18 @@
+body { 
+    background-color: rgb(195, 169, 169);}
+    
+p {color: beige;} 
+    
+h2 { color: azure;}
+    
+a { color: rgb(41, 6, 60);}
+    
+.dong{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+.dong{font-style: inherit;}
+
+.ding{font-weight: 600;}
+
+#moon {font-weight: 200;}
+
+#moon {font-style:initial;}

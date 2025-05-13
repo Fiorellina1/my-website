@@ -1,0 +1,14 @@
+body {
+    background-color: rgb(220, 29, 115);}
+
+    h2 {color: blue;}
+
+    h4 {color:darkgreen}
+    
+    .ning {font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif}
+    
+    .flori { font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;}
+    
+    #maan {font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+    #maan {font-style: unset;}

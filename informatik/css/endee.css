@@ -1,0 +1,15 @@
+body { 
+    background-color: rgb(129, 15, 15);}
+    
+p {color: beige;} 
+    
+h2 { color: azure;}
+    
+a { color: rgb(41, 6, 60);} 
+
+.loon {font-family:Georgia, 'Times New Roman', Times, serif}
+.loon {font-size:small ;}
+
+#mimi {font-style: inherit;}
+
+#mimi {font-weight: bold;}

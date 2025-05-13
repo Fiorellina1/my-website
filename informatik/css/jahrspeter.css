@@ -1,0 +1,19 @@
+body {
+    background-color: rgb(238, 255, 0);}
+
+a { color: coral;}
+
+h2 {color: blue;}
+
+div {color: blueviolet;}
+
+div {background-color: beige;}
+span{color:aquamarine}
+
+.hallo{font-size: x-large;}
+
+.hallo{font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;}
+
+#miau{font-style: unset;}
+
+#miau{font-family: Georgia, 'Times New Roman', Times, serif;}

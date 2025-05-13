@@ -1,0 +1,18 @@
+body { 
+    background-color: rgb(91, 12, 12);}
+    
+    p { color: floralwhite;}
+    
+    h2 { color: rgb(243, 239, 37);}
+    
+    a { color: aqua;}
+    
+    li { color: aqua;}
+
+    .ling {font-weight:200}
+
+    .joy {font-style: oblique;}
+
+    #lol {font-weight: lighter;}
+
+    #lol {font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;}

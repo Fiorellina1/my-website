@@ -1,0 +1,20 @@
+body {
+    background-color: rgb(55, 147, 135);}
+
+div {background-color: rgb(62, 159, 146);}
+
+p {color: darkseagreen;}
+
+a {color: darkviolet;}
+
+h1 { color: blue;}
+
+span {color:chartreuse}
+
+.gog{font-family: 'Times New Roman', Times, serif;}
+
+.gog {font-style: oblique;}
+
+#gaga {float: right;}
+
+#gaga {font-weight: lighter;}
